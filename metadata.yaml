@@ -1,0 +1,29 @@
+_repo: La-prueba_65632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Bazán, Emilia Pardo, condesa de
+    - Pardo Bazan, Emilia, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2021-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65632'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La prueba
+url: http://www.gutenberg.org/ebooks/65632
